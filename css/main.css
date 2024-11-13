@@ -1,0 +1,72 @@
+.product{
+    margin-left: 100px;
+}
+
+.seal{
+    width: 20%;
+    float: left;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    align-items: center;
+    padding: auto;
+}
+
+img{
+    margin: 10px 10px 10px 60px;
+}
+h1{
+    margin-left: 100px;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    margin-left: 10px;
+    color: grey;
+}
+.beforesale{
+   float: left;
+   margin-left: 11px;
+   margin-right: auto;
+   color: red;
+   text-decoration: line-through;
+}
+.aftersale {
+   float: left;
+   margin-left: 15px;
+   margin-right: auto;
+   color: green;
+   align-items: center; 
+   
+}
+.buy {
+    float: left;
+    width: 80%; 
+    background-color:black; 
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border:  black;
+    font-size: 15px;
+    margin: 0px 5px 5px 5px ;
+
+}
+.love {
+    float: right;
+    width: 15%; 
+    background-color:black; 
+    color: white;
+    padding: 10px;
+    border:  black;
+    margin: 0px 5px 5px 0px ;
+}
+
+
+
+
+
+
